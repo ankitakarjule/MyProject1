@@ -16,6 +16,8 @@ public class Demo {
     	 list.add("blue");
     	 list.add("white");
     	 list.add("black");
+    	 list.add("pink");
+    	 list.add("yellow");
     	 System.out.println(list);
      }
 }
