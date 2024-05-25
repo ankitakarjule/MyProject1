@@ -14,7 +14,6 @@ public class Demo {
     	 List<String> list=new ArrayList<String>();
     	 list.add("red");
     	 list.add("blue");
-    	 list.add("white");
     	 list.add("black");
     	 list.add("pink");
     	 list.add("yellow");
