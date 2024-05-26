@@ -13,6 +13,7 @@ public class Demo {
      {
     	 List<String> list=new ArrayList<String>();
     	 list.add("red");
+    	 list.add("white");
     	 list.add("blue");
     	 list.add("black");
     	 list.add("pink");
